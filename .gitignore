@@ -1,0 +1,20 @@
+# 有版權的電子書截圖內容
+IMG_*.PNG
+IMG_*.png
+IMG_*.JPG
+IMG_*.jpg
+
+# 可能的其他版權材料
+*.pdf
+screenshots/
+book-excerpts/
+
+# 一般開發環境檔案
+.DS_Store
+.vscode/
+.idea/
+*.log
+node_modules/
+__pycache__/
+*.pyc
+.env
